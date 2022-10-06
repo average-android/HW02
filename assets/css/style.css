@@ -38,5 +38,17 @@
 }
 
 h2 {
-    text-decoration: underline;
+    margin-right: 50px;
+}
+
+.img-center {
+    height: 800px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(../images/mejacket.png);
+    background-size: cover;
+    background-position: center; 
+    width: 500px;
 }
