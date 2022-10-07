@@ -4,5 +4,5 @@
 <img src="assets/images/preview2.png">
 
 This is my website. It's here. And it has dumb images of me on it. Enjoy.
-
+<a href="https://average-android.github.io/HW02/">Link to the website.</a>
 
